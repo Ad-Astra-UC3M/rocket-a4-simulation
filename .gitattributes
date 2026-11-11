@@ -1,0 +1,3 @@
+# OpenRocket and Excel files are zip archives: never diff or merge them as text
+*.ork binary
+*.xlsx binary

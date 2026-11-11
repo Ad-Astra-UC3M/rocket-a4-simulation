@@ -1,0 +1,11 @@
+# Office lock files (created while a workbook is open)
+~$*
+
+# OpenRocket backups and temporary files written while saving
+*.ork-bak
+ORSave*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+desktop.ini
